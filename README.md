@@ -50,3 +50,11 @@ The folder structure is automatically generated:
 ---
 *“Talk is cheap. Show me the code.” – Linus Torvalds*
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/Sushmashreeps10/LeetCode/tree/master/0006-zigzag-conversion) |
+<!---LeetCode Topics End-->
