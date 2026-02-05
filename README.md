@@ -49,3 +49,11 @@ The folder structure is automatically generated:
 
 ---
 *“Talk is cheap. Show me the code.” – Linus Torvalds*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Sushmashreeps10/LeetCode/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
