@@ -56,4 +56,8 @@ The folder structure is automatically generated:
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Sushmashreeps10/LeetCode/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/Sushmashreeps10/LeetCode/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
