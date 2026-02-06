@@ -50,19 +50,3 @@ The folder structure is automatically generated:
 ---
 *“Talk is cheap. Show me the code.” – Linus Torvalds*
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0009-palindrome-number](https://github.com/Sushmashreeps10/LeetCode/tree/master/0009-palindrome-number) |
-| [0012-integer-to-roman](https://github.com/Sushmashreeps10/LeetCode/tree/master/0012-integer-to-roman) |
-## Hash Table
-|  |
-| ------- |
-| [0012-integer-to-roman](https://github.com/Sushmashreeps10/LeetCode/tree/master/0012-integer-to-roman) |
-## String
-|  |
-| ------- |
-| [0012-integer-to-roman](https://github.com/Sushmashreeps10/LeetCode/tree/master/0012-integer-to-roman) |
-<!---LeetCode Topics End-->
