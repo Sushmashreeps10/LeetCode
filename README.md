@@ -65,4 +65,13 @@ The folder structure is automatically generated:
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sushmashreeps10/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Sushmashreeps10/LeetCode/tree/master/0014-longest-common-prefix) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sushmashreeps10/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sushmashreeps10/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
