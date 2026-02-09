@@ -71,6 +71,7 @@ The folder structure is automatically generated:
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sushmashreeps10/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sushmashreeps10/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Sushmashreeps10/LeetCode/tree/master/0016-3sum-closest) |
 ## Trie
 |  |
 | ------- |
@@ -79,8 +80,10 @@ The folder structure is automatically generated:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sushmashreeps10/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Sushmashreeps10/LeetCode/tree/master/0016-3sum-closest) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sushmashreeps10/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Sushmashreeps10/LeetCode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
